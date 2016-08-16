@@ -3,7 +3,7 @@
     "description": "Stub classes to map to refactored Pineapple classes",
     "type": "library",
     "require": {
-        "borb/pineapple": "dev-deeper-refactor"
+        "borb/pineapple": "dev-aaronjameslang-patch-1"
     },
     "autoload": {
         "psr-0": {
